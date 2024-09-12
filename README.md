@@ -10,7 +10,7 @@
 9. [Additional Steps and Suggestions](#additional-steps-and-suggestions)
 
 ---
-#Author: Nihar Raju
+## Author: Nihar Raju
 ## Load Libraries
 ```python
 import numpy as np
