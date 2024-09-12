@@ -210,7 +210,7 @@ poly_regression(6)
 
 ## Summary
 
-You've performed a comprehensive analysis of polynomial regression, including data generation, simple linear regression, polynomial regression with different degrees, prediction of new data, and the use of pipelines. These steps provide a solid foundation for understanding and applying polynomial regression. Keep exploring and visualizing the data to uncover more insights!
+I have performed a comprehensive analysis of polynomial regression, including data generation, simple linear regression, polynomial regression with different degrees, prediction of new data, and the use of pipelines. These steps provide a solid foundation for understanding and applying polynomial regression. Keep exploring and visualizing the data to uncover more insights!
 
 ---
 
